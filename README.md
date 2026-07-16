@@ -1,2 +1,2 @@
-# minipro
+# Insurance Claim Fraud detection system
 
